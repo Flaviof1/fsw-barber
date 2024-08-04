@@ -1,7 +1,7 @@
 # Aula Zero
 
 - [x] Setup dp banco
-- [] Seeding do banco (colocar dados)
+- [x] Seeding do banco (colocar dados)
 - [] Introdução ao next.js
 - [] Tailwind e Shadon
 - [] Git Hooks
