@@ -3,7 +3,7 @@
 - [x] Setup dp banco
 - [x] Seeding do banco (colocar dados)
 - [] Introdução ao next.js
-- [] Tailwind e Shadon
+- [x] Tailwind e Shadon
 - [] Git Hooks
 
 
